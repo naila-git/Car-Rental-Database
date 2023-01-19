@@ -1,25 +1,22 @@
 # Car-Rental-Database Instructions
  
 
-1) First download the latest version of Python and build the tkinter modules 
+1) First download the latest version of Python and build the tkinter modules
 
 To create the tables and load values into the database, run the code (python v3 already installed)
 
 For the Windows users –Pip install tkinter or pip install tk
-For the Linux and Mac users –app-get install python – 3
 
+For the Linux and Mac users –app-get install python – 3
 
 2) Create and activate the Python Virtual environment 
 Python3 -m venv venv
 Source ./venv/bin/activate
 
-
 3) Next, Install all the requirements from the requirements.txt file
 pip install -r requirements.txt
 
-
 4) Run the Python file
 Python CarRental.py
-
 
 5) The file will show you the GUI Interface and after that you can follow the GUI prompts to rent a car
