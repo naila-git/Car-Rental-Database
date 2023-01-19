@@ -3,11 +3,11 @@
 
 1) First download the latest version of Python and build the tkinter modules
 
-To create the tables and load values into the database, run the code (python v3 already installed)
+	To create the tables and load values into the database, run the code (python v3 already installed)
 
-For Windows users –Pip install tkinter or pip install tk
+	For Windows users –Pip install tkinter or pip install tk
 
-For Linux and Mac users –app-get install python – 3
+	For Linux and Mac users –app-get install python – 3
 
 2) Create and activate the Python Virtual Environment 
 Python3 -m venv venv
